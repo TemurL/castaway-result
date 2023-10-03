@@ -143,7 +143,7 @@ body {
 }
 
 .scroll-lock {
-  overflow: hidden;
+  overflow-y: hidden;
 }
 
 a {
